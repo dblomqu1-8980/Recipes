@@ -1,0 +1,7 @@
+{
+  "name": "Smart Pantry Chef",
+  "description": "Upload photos of your fridge and pantry to get AI-generated recipes instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
